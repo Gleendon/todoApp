@@ -3,7 +3,7 @@
 
 <h2> Tela Principal</h2>
 
-<img src="https://user-images.githubusercontent.com/102700138/201222731-dd4d7ea0-9b4a-441f-9a21-cac004db27bf.jpg">
+<img src="https://user-images.githubusercontent.com/102700138/201223765-eacd31b2-86dd-4fa6-b44c-8cedb84b6ba4.jpg">
 
 <h2> Adicionar Projeto</h2>
 
